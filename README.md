@@ -33,7 +33,7 @@ Vous pouvez également vous aider d'internet à tout moment.
 - Rangez les animaux par catégories
 
 ### Astuces
-- Les images de tous les animaux se trouvent dans le dossier `public/img/`. Pour afficher une image contenue dans ce répertoire, vous pouvez vous aider du [helper Laravel `asset()`]((https://laravel.com/docs/8.x/helpers#method-asset)) dans votre fichier Blade.
+- Les images de tous les animaux se trouvent dans le dossier `public/img/`. Pour afficher une image contenue dans ce répertoire, vous pouvez vous aider du [helper Laravel `asset()`]((https://laravel.com/docs/8.x/helpers#method-asset)).
 - N'hésitez pas à utiliser les fonctions [`dump()`](https://laravel.com/docs/8.x/helpers#method-dump) et [`dd()`](https://laravel.com/docs/8.x/helpers#method-dd) pour débuguer.
 
 ## Exemple de résultat
